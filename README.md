@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geekshan
+- 👋 Hi, I’m Shantanu @geekshan
 - 👀 I’m interested in Python, Django, Kivy, Pandas, CyberSecurity, Networking
 - 🌱 I’m currently learning Kivy
 - 💞️ I’m looking to collaborate on pyhton projects 
